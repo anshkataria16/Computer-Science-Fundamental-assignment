@@ -40,5 +40,3 @@ This project improved skills in:
 - Git version control  
 - Using VS Code  
 - Writing documentation  
-
-It is a complete beginner-level project demonstrating real-world software development workflow.
